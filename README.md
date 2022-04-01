@@ -8,4 +8,4 @@ Enter the data about first pizza:
 
 Then retake the steps for the second pizza.
 
-The result will show you which option you should take and how much groszys you would pay for each cm<sup>2</sup>.
+The result will show you how much groszy you would pay for each cm<sup>2</sup> and which option you should take.
